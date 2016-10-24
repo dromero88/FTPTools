@@ -1,0 +1,19 @@
+﻿<config>
+  <descripcion></descripcion>
+  <fichero>nombre fichero (fichero.txt)</fichero>
+  <ruta_local>ruta local fichero (C:\ficheros\)</ruta_local>
+  <ruta_log>ruta log (C:\logs\FTPtools_Log.txt)</ruta_log>
+  <action>download/upload (uno de los dos)</action>
+  <ftp>ruta del ftp (ftp://ftp.pepe.com:21</ftp>
+  <user>usuario ftp</user>
+  <pass>contraseña ftp</pass>
+  <proxy_user>usuario_proxy</proxy_user>
+  <proxy_pass>contraseña proxy</proxy_pass>
+  <emailTipo>EmailAgent</emailTipo>
+  <!--valores: EmailAgent = ASPEMAIL de Persist Software // SmtpFramework = envio por el metodo del framework -->
+  <emailFrom>emailcontrol@pepe.com</emailFrom>
+  <emailTo>empleado@pepe.com</emailTo>
+  <emailSMTPHost>217.0.0.0</emailSMTPHost>
+  <emailSMTPUser>usuario@pepe.com</emailSMTPUser>
+  <emailSMTPPassword>password smtp</emailSMTPPassword>
+</config>

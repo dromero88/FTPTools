@@ -1,0 +1,19 @@
+﻿<config>
+  <descripcion>Descsrga de fichero histórico Used1</descripcion>
+  <fichero>MBUsed1.txt</fichero>
+  <ruta_local>C:\Inetpub\ftproot\USED_ONE\MBE\</ruta_local>
+  <ruta_log>C:\ftp_errores\FTPtools_Log.txt</ruta_log>
+  <action>download</action>
+  <ftp>ftp://ftp.mbused1.com:21</ftp>
+  <user>sdv5627</user>
+  <pass>V0g3stArtyc0</pass>
+  <proxy_user>dromero</proxy_user>
+  <proxy_pass>Dromero65-</proxy_pass>
+  <emailTipo>EmailAgent</emailTipo>
+  <!--valores: EmailAgent = ASPEMAIL de Persist Software // SmtpFramework = envio por el metodo del framework -->
+  <emailFrom>envios_it@artyco.com</emailFrom>
+  <emailTo>david_romero@artyco.com</emailTo>
+  <emailSMTPHost>217.116.2.204</emailSMTPHost>
+  <emailSMTPUser>envios_it@artyco.com</emailSMTPUser>
+  <emailSMTPPassword>191919Ei</emailSMTPPassword>
+</config>

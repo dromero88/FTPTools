@@ -1,0 +1,6 @@
+C:\Proyectos\FTPTools\FTPTools\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\FTPTools\FTPTools\bin\Debug\FTPTools.exe
+C:\Proyectos\FTPTools\FTPTools\bin\Debug\FTPTools.pdb
+C:\Proyectos\FTPTools\FTPTools\bin\Debug\ASPEMAILLib.dll
+C:\Proyectos\FTPTools\FTPTools\obj\Debug\FTPTools.exe
+C:\Proyectos\FTPTools\FTPTools\obj\Debug\FTPTools.pdb
